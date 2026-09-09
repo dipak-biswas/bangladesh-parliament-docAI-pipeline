@@ -1,0 +1,5 @@
+google-cloud-documentai
+pandas
+openpyxl
+regex
+rapidfuzz
